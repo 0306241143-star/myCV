@@ -1,115 +1,60 @@
-# LÊ MINH QUÂN
-
-**FULLSTACK DEVELOPER INTERN**
-
-## Liên hệ
-
--   **Điện thoại:** 0369310740
--   **Ngày sinh:** 27/09/2006
--   **Email:** 0306241143@caothang.edu.vn
--   **Địa điểm:** TP. Hồ Chí Minh
--   **GitHub:** https://github.com/LeMinh-Quan
-
-## Mục tiêu nghề nghiệp
-
--   **Ngắn hạn:** Trở thành Thực tập sinh Fullstack Developer tại
-    HomeNest Software, vận dụng kiến thức PHP/Laravel, React, Node.js và
-    tư duy thuật toán vào thực tế.
--   **Dài hạn:** Chuẩn hóa kỹ năng lập trình theo tiêu chuẩn Clean Code
-    & Security, phấn đấu trở thành Lập trình viên chính thức đóng góp
-    lâu dài cho công ty.
-
-## Học vấn
-
-**Cao đẳng Kỹ thuật Cao Thắng (2024--2026)** - **Chuyên ngành:** Công
-nghệ thông tin - **GPA:** 7.6 / 10 (HK4: 7.73) - **Điểm nổi bật:** OOP
-(9.5), WinForms (8.3), UI Design (8.3), Node.js (7.4)
-
-## Kỹ năng chuyên môn
-
-### Ngôn ngữ
-
--   JavaScript, TypeScript, PHP, C#, SQL
-
-### Frontend
-
--   ReactJS (React 19), HTML5/CSS3, Tailwind CSS, Bootstrap, Fetch/Axios
-
-### Backend & API
-
--   PHP (Laravel 12 / MVC), Node.js (Express)
--   RESTful API, Session/JWT Authentication
-
-### Cơ sở dữ liệu
-
--   MySQL, SQL Server (ERD, Stored Procedures, Indexing)
-
-### Bảo mật & Công cụ
-
--   CSRF Token, XSS Escaping, Password Hashing, Rate Limit
--   Git/GitHub, Postman, XAMPP, VS Code
-
-## Dự án cá nhân
-
-### 1. TECHSTORE -- HỆ THỐNG E-COMMERCE & CHATBOT SUPPORT (2026)
-
--   **Source:** https://github.com/LeMinh-Quan/TechStore
--   **UI Flow:** Store Flow PDF
--   **Vai trò:** Fullstack Developer (Sole Developer)
--   **Tech Stack:** React 19, TypeScript, Laravel / Express API, MySQL /
-    SQL Server
--   **Phân tích & Thiết kế:** Lập sơ đồ Store Flow PDF và chuẩn hóa CSDL
-    tối ưu danh mục, sản phẩm, giỏ hàng.
--   **Backend & API:** Xây dựng RESTful API, phân quyền 3 cấp
-    (Customer/Staff/Admin) và làm Chatbot Node.js.
--   **Frontend & Security:** Phát triển giao diện SPA React 19/TS; áp
-    dụng CSRF Token, XSS Escaping, Rate Limit.
-
-### 2. ONLINE STORE -- QUẢN LÝ CỬA HÀNG TRỰC TUYẾN (2026)
-
--   **Source:** https://github.com/LeMinh-Quan/onlineStore
--   **Vai trò:** Backend / Fullstack Developer
--   **Tech Stack:** PHP 8.2+, Laravel 12, Blade Template, MySQL,
-    Bootstrap, Tailwind
--   **Kiến trúc CSDL:** Lập trình MVC Laravel 12; tự động dữ liệu mẫu
-    qua Seeder/Factory (10 danh mục, 50 sản phẩm).
--   **Backend Logic:** Xử lý Form Request Validation; tích hợp Soft
-    Deletes (xóa mềm/khôi phục) và phân trang Blade.
-
-### 3. TQS STORE -- WEBSITE BÁN LAPTOP (2025)
-
--   **Source:** https://github.com/LeMinh-Quan/do_an_web
--   **UI Layout:** Giao diện Web PDF
--   **Vai trò:** Backend / Fullstack Developer
--   **Tech Stack:** Native PHP, MySQLi, HTML5/CSS3, JavaScript, AJAX
-    Polling, XAMPP
--   **Backend End-to-End:** Lập trình PHP thuần xử lý phân quyền, kho
-    hàng, giỏ hàng và Chatbot AJAX Polling.
--   **Bảo mật & Deploy:** Áp dụng Prepared Statements (chống SQLi),
-    htmlspecialchars, password_hash; deploy InfinityFree.
-
-### 4. LAPTOP MANAGEMENT SYSTEM -- QUẢN LÝ CỬA HÀNG (2025)
-
--   **Source:** https://github.com/LeMinh-Quan/C-
--   **Vai trò:** C# / Desktop App Developer
--   **Tech Stack:** C#, .NET Framework 4.7.2, WinForms, SQL Server,
-    ADO.NET
--   **Mô tả:** Lập trình kiến trúc 3 tầng (UI-BLL-DAL); tối ưu truy vấn
-    bằng Stored Procedures, Triggers, Indexing.
-
-## Kỹ năng mềm
-
--   Tư duy thuật toán & Tự học công nghệ
--   Làm việc nhóm & Giải quyết vấn đề
-
-## Thành tích & hoạt động
-
--   **Olympic Tin học Sinh viên (Cấp trường):** Đạt Tứ kết (2024) và Bán
-    kết (2025); rèn luyện tư duy thuật toán và logic lập trình.
--   **GitHub Open Source:** Chia sẻ 5+ repositories công khai về Web
-    Fullstack và C# .NET.
-
-## Thông tin bổ sung
-
--   Laptop cá nhân cấu hình tốt.
--   Sẵn sàng nhận việc ngay sau khi trúng tuyển.
+LÊ MINH QUÂN
+FULLSTACK DEVELOPER INTERN
+Liên hệ
+0369310740
+27/09/2006
+0306241143@caothang.edu.vn
+TP. Hồ Chí Minh
+github.com/LeMinh-Quan
+Học vấn
+Cao đẳng Kỹ thuật Cao Thắng (2024 – 2026)
+• Chuyên ngành: Công nghệ thông tin
+• GPA: 7.6 / 10 (HK4: 7.73)
+Kỹ năng chuyên môn
+Ngôn ngữ:
+• JavaScript, TypeScript, PHP, C#, SQL
+Frontend:
+• ReactJS (React 19), HTML5/CSS3, Tailwind CSS, Bootstrap, Fetch/Axios
+Backend & API:
+• PHP (Laravel 12 / MVC), Node.js (Express)
+• RESTful API, Session/JWT Authentication
+Cơ sở dữ liệu:
+• MySQL, SQL Server (ERD, Stored Procedures, Indexing)
+Bảo mật & Công cụ:
+• CSRF Token, XSS Escaping, Password Hashing, Rate Limit
+• Git/GitHub, Postman, XAMPP, VS Code
+Kỹ năng mềm
+• Tư duy thuật toán & Tự học công nghệ
+• Làm việc nhóm & Giải quyết vấn đề
+Thông tin bổ sung
+• Laptop cá nhân cấu hình tốt.
+• Sẵn sàng nhận việc ngay sau khi trúng tuyển.
+Mục tiêu nghề nghiệp
+• Ngắn hạn: Trở thành Thực tập sinh Fullstack Developer tại HomeNest Software, vận dụng kiến thức PHP/Laravel, React, Node.js và tư duy thuật toán vào thực tế. • Dài hạn: Chuẩn hóa kỹ năng lập trình theo tiêu chuẩn Clean Code & Security, phấn đấu trở thành Lập trình viên chính thức đóng góp lâu dài cho công ty.
+Dự án cá nhân
+1.
+TECHSTORE – HỆ THỐNG E-COMMERCE & CHATBOT SUPPORT (2026)
+Source: *github.com/LeMinh-Quan/TechStore* | UI Flow: *Store Flow PDF*
+Fullstack Developer (Sole Developer)
+Tech Stack: React 19, TypeScript, Laravel / Express API, MySQL / SQL Server
+• Phân tích & Thiết kế: Lập sơ đồ Store Flow PDF và chuẩn hóa CSDL tối ưu danh mục, sản phẩm, giỏ hàng. • Backend & API: Xây dựng RESTful API, phân quyền 3 cấp (Customer/Staff/Admin) và làm Chatbot Node.js. • Frontend & Security: Phát triển giao diện SPA React 19/TS; áp dụng CSRF Token, XSS Escaping, Rate Limit.
+1.
+ONLINE STORE – QUẢN LÝ CỬA HÀNG TRỰC TUYẾN (2026)
+*Source: github.com/LeMinh-Quan/onlineStore*
+Backend / Fullstack Developer
+Tech Stack: PHP 8.2+, Laravel 12, Blade Template, MySQL, Bootstrap, Tailwind
+• Kiến trúc CSDL: Lập trình MVC Laravel 12; tự động dữ liệu mẫu qua Seeder/Factory (10 danh mục, 50 sản phẩm). • Backend Logic: Xử lý Form Request Validation; tích hợp Soft Deletes (xóa mềm/khôi phục) và phân trang Blade.
+1.
+TQS STORE – WEBSITE BÁN LAPTOP (2025)
+Source: *github.com/LeMinh-Quan/do_an_web* | UI Layout: *Giao diện Web PDF*
+Backend / Fullstack Developer
+Tech Stack: Native PHP, MySQLi, HTML5/CSS3, JavaScript, AJAX Polling, XAMPP
+• Backend End-to-End: Lập trình PHP thuần xử lý phân quyền, kho hàng, giỏ hàng và Chatbot AJAX Polling. • Bảo mật & Deploy: Áp dụng Prepared Statements (chống SQLi), htmlspecialchars, password_hash; deploy InfinityFree.
+1.
+LAPTOP MANAGEMENT SYSTEM – QUẢN LÝ CỬA HÀNG (2025)
+*Source: github.com/LeMinh-Quan/LaptopManagement*
+C# / Desktop App Developer
+Tech Stack: C#, .NET Framework 4.7.2, WinForms, SQL Server, ADO.NET
+• Lập trình kiến trúc 3 tầng (UI-BLL-DAL); tối ưu truy vấn bằng Stored Procedures, Triggers, Indexing.
+Thành tích & hoạt động
+• Olympic Tin học Sinh viên (Cấp trường): Đạt Tứ kết (2024) và Bán kết (2025); rèn luyện tư duy thuật toán và logic lập trình. • GitHub Open Source: Chia sẻ 5+ repositories công khai về Web Fullstack và C# .NET.
